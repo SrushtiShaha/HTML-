@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+}
+body{
+    background-color:black;
+}
+.nav{
+    background-color: rgba(245, 235, 53, 0.886);
+    display: flex;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(6, 6, 6);
+    font-size: 28px;
+    font-family: High Tower Text;
+}
+header>div{
+    margin-left: 60px;
+}
+
+button:hover{
+    background-color: rgba(249, 249, 249, 0.451);
+    border-radius: 10px;
+    border: 1px rgb(7, 7, 7); 
+}
+button{
+    width: 130px;
+    height: 40px;
+    background: none;
+    border: none;
+}
+input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+}
+.search {
+    width: 70%;
+}
+.submit {
+    width: 70px;
+    background-color: #9c06ca;
+    color: #ffffff;
+    margin-top: 10px;
+}
+#d1{
+    margin-left: 5%;
+}
+#d2{
+    margin-left: 15%;
+}
+#logo{
+    margin-left: 5%;
+}
+h2{
+    font-family: Viner Hand ITC;
+    color: #f63737;
+}
+.img1{
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+    font-family:Engravers MT ;
+    font-size: 95px;
+    color: white;    
+}
+span{
+    color: rgb(246, 246, 42);
+}
+.vid1{
+    margin-top: 20px;
+    width:400px;
+    margin-left:80px ;   
+}
+#d3{
+    background-color: rgba(125, 5, 19, 0.968);
+}
+#d4{
+    margin-left: 20px;
+}
+.foot{
+    
+    padding: 50px;
+}
+#btn1{
+    color: rgb(8, 8, 8);
+    background-color: #e5c4a5;
+    margin-left: 48%;
+    font-family:High Tower Text ;
+    font-size: 20px;
+}

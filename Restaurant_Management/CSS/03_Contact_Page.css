@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+}
+body{
+    background-color:white;
+}
+.nav{
+    background-color: rgba(220, 210, 18, 0.886);;
+    display: flex;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(6, 6, 6);
+    font-size: 28px;
+    font-family: High Tower Text;
+}
+header>div{
+    margin-left: 60px;
+}
+
+button:hover{
+    background-color: rgba(249, 249, 249, 0.451);
+    border-radius: 10px;
+    border: 1px rgb(7, 7, 7); 
+}
+button{
+    width: 130px;
+    height: 40px;
+    background: none;
+    border: none;
+}
+input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+}
+.search {
+    width: 70%;
+}
+.submit {
+    width: 70px;
+    background-color: #9c06ca;
+    color: #ffffff;
+    margin-top: 10px;
+}
+#d1{
+    margin-left: 5%;
+}
+#d2{
+    margin-left: 15%;
+}
+#logo{
+    margin-left: 5%;
+}
+h2{
+    font-family: Viner Hand ITC;
+    color: #f63737;
+}
+.d3{
+    position: relative;
+}
+.txt1{
+    position: absolute;
+    top: 71%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-family:Constantia ;  
+    background-color: rgba(255, 252, 252, 0.677);
+    color: #090909;
+    font-size: 65px;
+    text-align: center;
+    padding: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.form{
+    position: absolute;
+    left: 70%;
+    top:71%;
+    transform: translate(-50%, -50%);
+    font-family:Constantia ;    
+    font-size: 65px;
+    text-align: center;
+    padding: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgba(255, 252, 252, 0.677);
+}
+#name,#email,#msg {
+    display: block;
+    width: 300px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    color: #fcfcfcfb;
+    background-color: #3a3939b8;
+}
+label{
+    font-size: 30px;
+    font-family:High Tower Text ;
+    color:#090909;
+}
+#btn1 {
+    display: block;
+    margin: 35px auto 0;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #212020de;
+    color: #f5f0f0;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+#btn1:hover {
+    background-color: #070707fa;
+} 
+.txt2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(220, 225, 57);
+    background-color: rgb(74, 53, 32);
+    padding: 10px;
+}
+#d4{
+    display: flex;
+    background-color: rgba(66, 56, 34, 0.896);
+}
+#d5,#d6,#d7,#d8{
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+#d6,#d7,#d8{
+    margin-left: 160px;
+    
+}
+.img1{
+    margin-left: 65px;
+}
+#img2{
+    margin-left: 100px;
+}
+.a1{
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
